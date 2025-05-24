@@ -10,7 +10,7 @@ We called it **“What’s Wrong?”**
 ## 🎥 Demo
 
 Check out the video demonstration to see the app in action — from login and chatting to posting stories.  
-👉 *https://www.linkedin.com/posts/abdelazizadel_introducing-whats-wrong-a-custom-built-activity-7331397057112444929-TxrB?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADaCgBMBzV7FlkRFVyTib3IPTd5a6hxzLkA*
+👉 [Watch the demo](https://www.linkedin.com/posts/abdelazizadel_introducing-whats-wrong-a-custom-built-activity-7331397057112444929-TxrB?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADaCgBMBzV7FlkRFVyTib3IPTd5a6hxzLkA)
 
 ---
 
